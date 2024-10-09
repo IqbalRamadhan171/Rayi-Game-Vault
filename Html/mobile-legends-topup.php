@@ -135,13 +135,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <body>
       <!-- Header Section -->
       <div class="header">
-        <img src="C:\Pemweb Mikum\Html\Logo RGV.png" alt="Logo" />
+        <img src="images\Logo RGV.png" alt="Logo" />
         <a href="allahumma.html" style="position: absolute; left: 70px; top: 50%; transform: translateY(-50%); font-size: 24px; color: white;">Rayi Gaming Vault</a>
         <a href="login.html">Login</a>
     </div>
         <!-- Banner Section -->
         <div class="banner">
-        <img src="C:\Pemweb Mikum\Html\Banner ML.png" alt="Banner" width="1100px" height="400px" />
+        <img src="images\Banner ML.png" alt="Banner" width="1100px" height="400px" />
     </div>
 
         <div class="tutorial">
